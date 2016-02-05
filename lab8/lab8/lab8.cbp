@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="lab8" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/lab8" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/lab8" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="BoxPeterMutch.cpp" />
+		<Unit filename="BoxPeterMutch.h" />
+		<Unit filename="CirclePeterMutch.cpp" />
+		<Unit filename="CirclePeterMutch.h" />
+		<Unit filename="CylinderPeterMutch.cpp" />
+		<Unit filename="CylinderPeterMutch.h" />
+		<Unit filename="DriverUtilitiesPeterMutch.cpp" />
+		<Unit filename="DriverUtilitiesPeterMutch.h" />
+		<Unit filename="PointPeterMutch.cpp" />
+		<Unit filename="PointPeterMutch.h" />
+		<Unit filename="PointUtilsPeterMutch.cpp" />
+		<Unit filename="ShapeUtilsPeterMutch.cpp" />
+		<Unit filename="ShapeUtilsPeterMutch.h" />
+		<Unit filename="cis25Fall2015PeterMutchLab7Ex1.cpp" />
+		<Unit filename="fractionPeterMutch.cpp" />
+		<Unit filename="fractionPeterMutch.h" />
+		<Unit filename="fractionUtilsPeterMutch.cpp" />
+		<Unit filename="fractionUtilsPeterMutch.h" />
+		<Unit filename="rectanglePeterMutch.cpp" />
+		<Unit filename="rectanglePeterMutch.h" />
+		<Unit filename="shapePeterMutch.h" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+			<lib_finder disable_auto="1" />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1448359482 source:/home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/cis25Fall2015PeterMutchLab6Ex1.cpp
+	<iostream>
+	"fractionPeterMutch.h"
+	"fractionUtilsPeterMutch.h"
+	"DriverUtilitiesPeterMutch.h"
+
+1448359423 /home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/fractionPeterMutch.h
+	<iostream>
+
+1448359449 /home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/fractionUtilsPeterMutch.h
+	"fractionPeterMutch.h"
+
+1448359871 /home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/DriverUtilitiesPeterMutch.h
+	"fractionPeterMutch.h"
+	"PointPeterMutch.h"
+
+1448359581 /home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/PointPeterMutch.h
+	"fractionPeterMutch.h"
+	<iostream>
+

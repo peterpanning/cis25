@@ -1,0 +1,48 @@
+# depslib dependency file v1.0
+1448365893 source:/home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/cis25Fall2015PeterMutchLab6Ex1.cpp
+	<iostream>
+	"fractionPeterMutch.h"
+	"fractionUtilsPeterMutch.h"
+	"DriverUtilitiesPeterMutch.h"
+
+1448359423 /home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/fractionPeterMutch.h
+	<iostream>
+
+1448359449 /home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/fractionUtilsPeterMutch.h
+	"fractionPeterMutch.h"
+
+1448365709 /home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/DriverUtilitiesPeterMutch.h
+	"fractionPeterMutch.h"
+	"PointPeterMutch.h"
+
+1448362271 /home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/PointPeterMutch.h
+	"fractionPeterMutch.h"
+	<iostream>
+
+1448366202 source:/home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/DriverUtilitiesPeterMutch.cpp
+	<iostream>
+	"DriverUtilitiesPeterMutch.h"
+	"PointPeterMutch.h"
+	"PointUtilsPeterMutch.h"
+
+1448357860 /home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/PointUtilsPeterMutch.h
+	<iostream>
+	"PointPeterMutch.h"
+
+1448359353 source:/home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/fractionPeterMutch.cpp
+	<iostream>
+	"fractionPeterMutch.h"
+
+1448359389 source:/home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/fractionUtilsPeterMutch.cpp
+	"fractionUtilsPeterMutch.h"
+	<iostream>
+	"fractionPeterMutch.h"
+
+1448365341 source:/home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/PointPeterMutch.cpp
+	"fractionPeterMutch.h"
+	<iostream>
+
+1448362739 source:/home/peter/code/C++/cis25/lab6/cis25Fall2015PeterMutchLab6/PointUtilsPeterMutch.cpp
+	"PointPeterMutch.h"
+	<iostream>
+
